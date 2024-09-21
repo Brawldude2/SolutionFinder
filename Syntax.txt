@@ -1,0 +1,7 @@
+Variables.txt
+|VarName|VarRange[Min,Max]|IsInteger(default is yes)|
+
+Conditions.txt
+|ResultExpression|[Min/Max]|
+|Condition1|
+|Condition2|
